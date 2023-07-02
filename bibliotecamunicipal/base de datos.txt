@@ -1,4 +1,4 @@
-nombre base de datos 
+nombre base de datos "biblioteca"
 tablas: noticias, permisos, usuario
 
 campos de noticias
